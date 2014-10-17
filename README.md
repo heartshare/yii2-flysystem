@@ -1,6 +1,7 @@
 Yii2 Flysystem
 ==============
-Yii2 Flysystem integration component
+Yii2 Flysystem (https://github.com/thephpleague/flysystem) integration component.
+This is not ready at all! 
 
 Installation
 ------------
@@ -21,6 +22,9 @@ or add
 
 to the require section of your `composer.json` file.
 
+Configuration
+-------------
+For adapters configuration docs look here - https://github.com/thephpleague/flysystem
 
 Usage
 -----
