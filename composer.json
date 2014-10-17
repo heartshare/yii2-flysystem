@@ -1,0 +1,22 @@
+{
+    "name": "trntv/yii2-flysystem",
+    "description": "Yii2 Flysystem integration component",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","flysystem"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugine Terentev",
+            "email": "eugine@terentev.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "league/flysystem": "~0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "trntv\\yii\\flysystem\\": ""
+        }
+    }
+}

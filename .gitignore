@@ -1,0 +1,9 @@
+# yii2-flysystem
+/vendor
+
+# Composer
+composer.phar
+composer.lock
+
+# IDE
+.idea
